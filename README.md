@@ -17,7 +17,7 @@
 [02 石田](02_Ishida.md)  
 [03 磯野](03_Isono.md)  
 [04 菅原](04_sugawara.md)  
-[05 高橋（峻）](05_takahashi.md)  
+[05 高橋（竣）](05_takahashi.md)  
 [06 高橋（聖）](06_masato.md)  
 [07 高橋（雄）](07_takahashiyuhi.md)  
 [08 樋口](08_Higucghi.md)  
